@@ -1,0 +1,55 @@
+
+*{
+    color: black;
+}
+
+
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    line-height: 50px;
+    margin-top: 20px;
+    margin-bottom:3px;
+    border-top: 2px solid #470808;
+    font-size: 25px;
+    font-weight: bold;
+  }
+    
+
+.row{
+    border: solid 1px #cccc;
+  width:960px;
+  height:600px;
+}
+.col {
+  border: solid 15px rebeccapurple;
+  color: green;
+  font-size: 15px;
+  width:45%;
+  }
+  
+    .crystals{
+     border: solid 2px black;
+    
+    }
+  
+  #im1, #im2, #im3, #im4 {
+  border: solid 5px rgb(255, 0, 0);
+  width:100px;
+
+
+}
+  footer{
+  text-align: center;
+    background-color: #000000;
+    color: white;
+    line-height: 50px;
+    margin-top: 3px;
+    border-top: 2px solid #084745;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+  
